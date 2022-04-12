@@ -14,3 +14,12 @@
   
 - Testing connection from dashboard to sign out function to dashboard with no authenticated session
   - User in authenticated session should be able to log out and be directed a unauthenticated dashboard to login or signup.  
+
+
+| Name |  Level of involvement |	Responsibilities |
+| ---- | --------------------- | ----------------- |
+|Christopher | 	35 hrs/wk	     | Design the Test Report, including the test planning, test status report |
+|Erica	     | 35 hrs/wk	     | Design and execute the Test Cases |
+| Pooja 	   |  40 hrs/wk	     | Design Test cases for the Front-end subsystem, working on writing the Unit test cases for the components, writing test summary for front-end |
+| Preyasha |	40 hrs/wk       |	Design Test cases for the Back-end subsystem, working on the test cases, test data and writing test summary for backend. |
+
